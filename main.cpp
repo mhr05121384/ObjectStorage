@@ -17,7 +17,7 @@ int main() {
         config.scheme = Aws::Http::Scheme::HTTPS;
         config.endpointOverride = "https://mygameassets.s3.ir-thr-at1.arvanstorage.ir";
         config.region = "default";
-        config.verifySSL = false;
+        config.verifySSL = true;
 
         Aws::S3::S3Client s3_client(credentials, config,
                                     Aws::Client::AWSAuthV4Signer::PayloadSigningPolicy::Never,
