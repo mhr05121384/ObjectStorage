@@ -1,0 +1,3 @@
+C:/Users/MH.Rezaiy_110/Desktop/Corp/ObjectStorage/cmake-build-debug/CMakeFiles/ObjectStorage.dir
+C:/Users/MH.Rezaiy_110/Desktop/Corp/ObjectStorage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MH.Rezaiy_110/Desktop/Corp/ObjectStorage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
